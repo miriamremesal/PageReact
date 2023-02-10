@@ -11,11 +11,12 @@ function NavbarTech() {
     <>
       <Navbar bg="dark" variant="dark">
         <Container>
-          <Navbar.Brand href="#home">Navbar</Navbar.Brand>
+          <Navbar.Brand href="#equalTech">equalTech</Navbar.Brand>
           <Nav className="me-auto">
-            <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#features">Services</Nav.Link>
-            <Nav.Link href="#pricing">Contact</Nav.Link>
+            <Nav.Link href="#inicio">INICIO</Nav.Link>
+            <Nav.Link href="#conocenos">CONOCENOS</Nav.Link>
+            <Nav.Link href="#servicios">SERVICIOS</Nav.Link>
+            <Nav.Link href="#contacto">CONTACTO</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
